@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalebsCranium
 - 👀 I’m interested in applying artificical intelligence to research and development of molecular biological systems.
-- 🌱 I’m currently learning biotechnology, molecular biology, and data administration
+- 🌱 I’m currently learning biotechnology, molecular biology, and data engineering
 - 💞️ I’m looking to collaborate on bioinformatics projects of various sorts
 - 📫 How to reach me @coopercg2@my.palmbeachstate.edu
 
